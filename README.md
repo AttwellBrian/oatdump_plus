@@ -3,7 +3,7 @@ oatdump++
 
 Enhanced version of the original oatdump system utility installed as part of the new Android ART runtime.
 
-## Enhanced Features
+## New Features
 
 1. Class level dump(s)
 2. Method level dump
@@ -18,7 +18,7 @@ A standalone build is in the to-do list (too many build deps that need some craf
 ## Running Examples
 
 ```
-$ adb shell /data/local/tmp/oatdump++ --oat-file=/data/dalvik-cache/data@app@com.google.android.calendar-2.apk@classes.dex --no-headers --class=android.support.v4.app.NavUtils
+$ adb shell oatdump++ --oat-file=/data/dalvik-cache/data@app@com.google.android.calendar-2.apk@classes.dex --no-headers --class=android.support.v4.app.NavUtils
      --{ oatdump++ by @anestisb }--
 compatible with 4.4.1_r1 & 4.4.2_{r1,r2}
 
