@@ -15,6 +15,14 @@ Fork the desired ART branch into your aosp build environment and build as derise
 
 A standalone build is in the to-do list (too many build deps that need some crafting).
 
+## Available Binaries
+
+1. [oatdump++ for 4.4.1_r1 & 4.4.2_{r1,r2}](https://www.dropbox.com/s/538p5z4f7pqx22y/oatdump%2B%2B_4.4.1-2)
+```
+MD5 (oatdump++_4.4.1-2) = c97c7731f1ecd7f97044bac8460f4358
+```
+
+
 ## Running Examples
 
 ```
