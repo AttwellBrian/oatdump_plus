@@ -19,6 +19,7 @@ A standalone build is in the to-do list (too many build deps that need some craf
 
 1. [oatdump++ for 4.4.1_r1 & 4.4.2_{r1,r2}](https://dl.dropboxusercontent.com/u/6842951/oatdump%2B%2B/oatdump%2B%2B_4.4.1-2) [MD5: c97c7731f1ecd7f97044bac8460f4358]
 2. [oatdump++ for l-preview](https://dl.dropboxusercontent.com/u/6842951/oatdump%2B%2B/oatdump%2B%2B_l-preview) [MD5: a123dc2544153411733d5bcd7992a16b]
+3. [oatdump++ for master (02-07-2014 from 4c0ad36)](https://dl.dropboxusercontent.com/u/6842951/oatdump%2B%2B/oatdump%2B%2B_master_02-07-2014) [MD5: fa49ff01a559de0a5bbb1e2d21ea7e82]
 
 ## Running Examples
 
@@ -90,4 +91,3 @@ compatible with 4.4.1_r1 & 4.4.2_{r1,r2}
 
 1. Standalone build
 2. Multiple classes/methods input filter support
-
